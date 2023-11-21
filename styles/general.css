@@ -14,6 +14,7 @@ body {
 .top-section-wrapper {
     display: flex;
     flex-direction: column;
+    background-size: 100%;
     background-image: url(backgrounds/hero-image.png);
     background-repeat: no-repeat;
 }
