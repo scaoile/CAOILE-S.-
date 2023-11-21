@@ -15,6 +15,5 @@ body {
     width: 100;
     display: flex;
     flex-direction: column;
-    background-size: 100% 100%;
     background-image: url(backgrounds/hero-image.png);
 }
